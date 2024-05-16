@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SmartHub</string>
+    <string name="back_button">Back</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="save_button">Save</string>
+    <string name="edit_device_title">Edit device</string>
+    <string name="devices_tab_title">Devices</string>
+    <string name="alerts_tab_title">Alerts</string>
+    <string name="scenes_tab_title">Scenes</string>
+    <string name="add_scene_title">Add Scene</string>
+    <string name="dashboard_tab_title">Dashboard</string>
+    <string name="edit_button">Edit button</string>
+    <string name="no_device_found">No device found</string>
+    <string name="no_scene_found">No scene found</string>
+    <string name="device_detail_title">Device detail</string>
+    <string name="scene_detail_title">Scene detail</string>
+    <string name="active_label">Active</string>
+    <string name="start_time_label">Start Time</string>
+
+    <string name="name_placeholder">Name</string>
+    <string name="type_placeholder">Type</string>
+    <string name="description_placeholder">Description</string>
+    <string name="location_placeholder">Location</string>
+    <string name="ip_address_placeholder">IP Address</string>
+
+    <string name="logout">Log out</string>
+</resources>
